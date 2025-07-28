@@ -98,7 +98,7 @@ Forbes adopted MongoDB Atlas to modernise their outdated, on-premises CMS, which
 
 This upgrade improved both developer productivity and reader experience, with faster page rendering and simpler maintenance. Forbes now plans to implement Atlas Search to further enhance search performance and continue delivering innovation at speed.
 
-![ref] (https://www.mongodb.com/solutions/customer-case-studies/forbes#challenge)
+[Ref] (https://www.mongodb.com/solutions/customer-case-studies/forbes#challenge)
 ---
 
 ### 2. Internet of Things (IoT)
@@ -106,5 +106,5 @@ Bosch uses MongoDB to manage and process complex IoT data in real time. Its flex
 
 A key use case is Bosch IoT Insights, a platform that collects data from tools used in aircraft manufacturing. It monitors torque and angle values, alerting operators when they’re off spec, improving safety and compliance. Bosch also uses MongoDB to analyze data from car engine control units (ECUs), helping engineers understand real-world usage and refine product designs based on actual user behavior.
 
-![ref] (https://www.mongodb.com/solutions/use-cases/internet-of-things)
+[Ref] (https://www.mongodb.com/solutions/use-cases/internet-of-things)
 ---
