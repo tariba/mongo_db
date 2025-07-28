@@ -17,6 +17,7 @@ MongoDB's schema is dynamic, meaning you don't need a predefined structure for y
 
 **BSON**:
 MongoDB uses BSON (Binary JSON) to store data, which is a binary representation of JSON that can accommodate more data types than standard JSON. 
+
 ---
 
 ## What are Collections and Documents?
